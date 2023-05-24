@@ -19,3 +19,9 @@ ChatGPT is an advanced language model developed by OpenAI, powered by the impres
 * Provide your phone number and click on the “Send code” button.
 * Enter the code that is sent to your phone number.
 * Start using ChatGPT!
+
+## Read more
+
+* [chatgpt login](https://sites.google.com/letsigninlogin.com/chatgptlogin/)
+
+* [chatgpt openai](https://sites.google.com/view/httpsopenai/)
